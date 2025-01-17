@@ -19,3 +19,6 @@
 [submodule "AgroMajsterWeb"]
 	path = AgroMajsterWeb
 	url = https://github.com/Seljaki/frontend
+[submodule "TeraPis"]
+	path = TeraPis
+	url = https://github.com/Seljaki/TeraPis
