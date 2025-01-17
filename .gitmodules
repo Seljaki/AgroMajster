@@ -1,0 +1,21 @@
+[submodule "AgroMajsterGame"]
+	path = AgroMajsterGame
+	url = https://github.com/Seljaki/AgroMajsterGame
+[submodule "AgroMajsterMobile"]
+	path = AgroMajsterMobile
+	url = https://github.com/Seljaki/agro-majster-mobile
+[submodule "InutilisChain"]
+	path = InutilisChain
+	url = https://github.com/Seljaki/InutilisChain
+[submodule "SeljakiNet"]
+	path = SeljakiNet
+	url = https://github.com/Seljaki/SeljakiNet
+[submodule "AgroMajsterDesktop"]
+	path = AgroMajsterDesktop
+	url = https://github.com/Seljaki/AgroMajsterDesktop
+[submodule "AgroMajsterServer"]
+	path = AgroMajsterServer
+	url = https://github.com/Seljaki/server
+[submodule "AgroMajsterWeb"]
+	path = AgroMajsterWeb
+	url = https://github.com/Seljaki/frontend
